@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":1, "city":"Essen","country":"Germany","image":"germany","ip":"104.224.143.176","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Ontario","country":"Canada","image":"canada","ip":"64.227.111.178","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"64.227.111.178","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Ontario","country":"Canada","image":"canada","ip":"104.224.143.176","active":"true","signal":"a"}
   ]
 }
